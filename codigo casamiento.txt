@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- FONTS -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nixie+One&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Casamientos</title>
+</head>
+<body>
+    <header>
+        <a href="index.html" target="_blank" class="home"><i class="fas fa-home"></i></a>
+
+<h1>Flaneur Ar</h1> 
+<!-- En un futuro van a ser carrousel de fotos con bootstrap
+para que te puedas dar una idea en cada titulo estará el carrousel-->
+
+    </header>
+    <section class="casorios">
+        <h3>Captando momentos inolvidables</h3>
+<!-- En primera instancia es una lista pero quiero que la hacer click se abrán las imagenes de 
+cada trabajo realizado.-->
+
+            <h4>Fran y Juli</h4>
+            <center>
+            <img src="../FLANEURAR/Fotos/Casamientos/Foto casamiento 4.jpg" alt="">
+            </center>
+            <h4>Jose y Mery</h4>
+            <center>
+            <img src="../FLANEURAR/Fotos/Casamientos/Foto casamiento 2.jpg" alt="">
+            </center>
+            <h4>Fede y Feli</h4>
+            <center>
+            <img src="../FLANEURAR/Fotos/Casamientos/Foto casamiento 3.jpg" alt="">
+            </center>
+            <h4>Marian y Santi</h4>
+            <center>
+            <img src="../FLANEURAR/Fotos/Casamientos/Foto casamiento 1.jpg" alt="">
+            </center>
+    </section>
+
+    
+</body>
+</html>

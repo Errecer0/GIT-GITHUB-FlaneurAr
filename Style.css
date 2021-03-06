@@ -1,0 +1,282 @@
+@media only screen and (max-width: 500px) {
+    body  {
+        background-color: black;
+        font-size: 10px;
+        transition: all 1s;
+    }
+    header {
+        background-color: black;
+        font-size: 25px;
+        transition: all 1s;
+    }
+    footer {
+        background-color: black;
+        transition: all 1s;
+    }
+    iframe {
+        width: 50px;
+        height: 50px;
+    }
+
+}
+
+
+header {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.flaneur {
+    font-size: 50px;
+}
+
+body {
+    font-family:'Nixie One', cursive;
+    background-image: url(../FLANEURAR/Fotos/Background/backgroundimage.jpg);
+    transition: all 1s;
+}
+
+section .elvi {
+  text-align: center;  
+}
+
+li {
+    list-style: none;
+    line-height: 2.5;
+}
+
+li:hover {
+    transform: scale(1.10);
+    transition: 1s;
+}
+
+
+.escriba:hover {
+   font-weight: bold;
+   transition: all 0.3s;
+   transform: scale(1.08);
+}
+
+
+
+h1 {
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: all 1s;
+
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: all 1s;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    letter-spacing: 1px;
+    transition: all 1s;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    transition: all 1s;
+}
+
+p {
+    color: white;
+    margin: 30px;
+    transition: all 1s;
+}
+
+.elifr {
+    text-align: center;
+    transition: all 1s;
+}
+
+
+.escriba {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+form {
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    transition: all 1s;
+}
+
+.floatclass {
+    margin-top: 9%;
+}
+.contact {
+    color: white;
+     text-align: center;
+     letter-spacing: 2px;
+     margin-bottom: 20%;
+
+}
+
+
+h5 {
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    
+}
+
+article {
+
+    background-size: cover;
+    color: white;
+}
+
+
+.home {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: white;
+    font-size: 50px;
+}
+
+.home:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.errorn {
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+}
+
+.pie {
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+}
+
+
+
+.mariu {
+    letter-spacing: 2px;
+    margin-bottom: 10%;
+    margin-top: 10px;
+}
+
+table {
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    margin-top: 10%;
+}
+
+.err {
+    color: white; 
+}
+
+
+.casorios {
+    align-items: center;
+}
+
+
+
+.todoresp {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.divh {
+    text-align: center;
+    width: 100%;
+}
+
+
+.divart {
+    width: 50%;
+    z-index: 100;
+}
+
+
+
+.divpubl{
+    align-items: center;
+    width: 50%;
+    margin: auto;    
+}
+
+
+
+.divnuesof {
+    align-items: center;
+    width: 50%;
+}
+
+.divcon {
+    align-items: center;
+    width: 50%;
+    
+}
+
+.divform {
+    text-align: center;
+    width: 100%;
+}
+
+.iconos {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    display: flex;
+    color: white;
+    height: 75px;
+    width: 75px;
+    margin: 0 15px;
+    border-radius: 0px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 35px;
+    transition: all 1s;
+    
+}
+
+.red:hover {
+    transform: scale(2);
+}
+
+.headantes {
+    width: 100%;
+}
+
+#carouselExampleCaptions2 {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+    
+
